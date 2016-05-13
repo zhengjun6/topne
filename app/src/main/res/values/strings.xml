@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">topne</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <drawable name="withe">#ffffff</drawable>
+    <drawable name="fred">#FFCCCC</drawable>
+    <drawable name="cyellow">#FF6100</drawable>
+    <drawable name="fcgrade">#33a23d</drawable>
+    <drawable name="hblue">#0f218b</drawable>
+    <drawable name="mfcolor">#fb8072</drawable>
+    <drawable name="xyc">#4e9b86</drawable>
+    <drawable name="back">#080C10</drawable>
+
+
+
+</resources>

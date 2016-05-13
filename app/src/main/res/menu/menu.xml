@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+
+        android:checkableBehavior="single">
+
+        <item
+
+            android:id="@+id/home"
+
+           android:icon="@drawable/home"
+
+            android:title="主页"/>
+
+
+                <item
+                    android:id="@+id/collect"
+                    android:icon="@drawable/collect"
+                    android:title="收藏"/>
+
+                <item
+                    android:id="@+id/setting"
+                    android:icon="@drawable/setting"
+                    android:title="设置"/>
+
+
+                <item
+                    android:id="@+id/tell"
+                    android:icon="@drawable/feedback"
+                    android:title="反馈"/>
+
+
+
+        <item
+            android:id="@+id/finish"
+            android:icon="@drawable/finish"
+            android:title="退出"/>
+
+
+
+
+    </group>
+
+
+
+</menu>
